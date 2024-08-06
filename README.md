@@ -25,9 +25,9 @@ public class HelloWorld {
 
 
 # Code style could include:
-curly braces
-indents
-parentheses
-white space
-naming conventions (e.g. classes, variables, methods)
-maximum line length
+curly braces,
+indents,
+parentheses,
+white space,
+naming conventions (e.g. classes, variables, methods),
+maximum line length.
